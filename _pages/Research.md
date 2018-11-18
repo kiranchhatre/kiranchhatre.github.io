@@ -7,7 +7,7 @@ classes: wide
 mathjax: "true"
 ---
 
-## Datascience
+## Data Science
 
 >   **Mini Thesis** at Institute of General Mechanics at RWTH Aachen University, Germany. (*September 2018 – Present*)
 
