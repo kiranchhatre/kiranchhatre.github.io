@@ -8,7 +8,7 @@ classes: wide
 
 ## Scholarships
 
->   Grant of full tuition fees and living expenses scholarship by Commissionerate of Social Welfare, Government of Maharashtra, India for 50 students with outstanding academic achievements.
+>   Grant of full tuition fees and living expenses scholarship for Masters education in Germany by Commissionerate of Social Welfare, Government of Maharashtra, India for 50 students with outstanding academic achievements.
 
 ## Research Papers
 
