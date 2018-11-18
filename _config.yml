@@ -13,11 +13,11 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 github: [metadata]
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiran Chhatre - Portfolio"
+title                    : "Kiran Chhatre"
 title_separator          : "-"
 name                     : "Kiran Chhatre"
 description              : "Thank you for visiting. This website gives an overview of my Data Science Journery"
