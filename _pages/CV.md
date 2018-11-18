@@ -1,9 +1,9 @@
 ---
 title: "CV"
 permalink: /CV/
-header:	
+header:
 ---
 
-Please feel free to have a look..! [CV](https://drive.google.com/open?id=1_pPeLuGpTXSQdsnEVsajmJ03sxFvmXtQ)
+You can find my CV [here](https://drive.google.com/drive/folders/1jZ__1XBUKU-EhuSeuwPZhpon6-3Bxmnw)
 
 

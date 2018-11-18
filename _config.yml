@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 github: [metadata]
 # Site Settings
 locale                   : "en-US"
-title                    : "My Portfolio"
+title                    : "Kiran Chhatre - Portfolio"
 title_separator          : "-"
-name                     : "Abhijeet Pendyala"
+name                     : "Kiran Chhatre"
 description              : "Thank you for visiting. This website gives an overview of my Data Science Journery"
-url                      : "http://AbhijeetPendyala.github.io"
+url                      : "https://kiranchhatre.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : AbhijeetPendyala/AbhijeetPendyala.github.io
-teaser                   : /assets/images/500x300.png# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : kiranchhatre/kiranchhatre.github.io
+teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 300
 comments:
@@ -80,8 +80,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook: 
-  username               : "https://www.facebook.com/p.abhijeet777"
+facebook:
+  username               : "https://www.facebook.com/kiran.chhatre"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -102,17 +102,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhijeet Pendyala"
+  name             : "Kiran Chhatre"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi there. I am an aspiring Machine Learning Engineer, currently working on a Novel Large Scale ML algorithm to speedup SVMs"
-  location         : "Bochum, Germany"
-  github           : "AbhijeetPendyala"
-  linkedin         : "abhijeet-pendyala-3ba00942/"
+  bio              : "Hi there. I am a Data Scientist who excels at Deep Learning, Exploratory Analysis, and Data Visualizations."
+  location         : "Aachen, Germany"
+  github           : "kiranchhatre"
+  linkedin         : "kiranchhatre/"
 # Site Footer
 footer:
 
-  linkedin          : "https://www.linkedin.com/in/abhijeet-pendyala-3ba00942/"
-  github           : "https://github.com/mmistakes"
+  linkedin          : "https://www.linkedin.com/in/kiranchhatre/"
+  github           : "https://github.com/kiranchhatre"
 
 
 # Reading Files
@@ -284,7 +284,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      
+
 # Plugin: Table of Contents (jekyll-toc)
 toc:
   min_level: 2

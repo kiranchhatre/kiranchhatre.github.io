@@ -1,20 +1,13 @@
-I am a master’s student in Computational Engineering, with specialization in
-Machine learning at Ruhr University Bochum (RUB). I am currently doing my master
-thesis in Large Scale Machine learning in the Theory of Machine Learning group
-at Neuroinformatic department, RUB.
-
-As a learner for life, I am a motivated person always pushing myself for new
-experiences beyond my comfort zone. I have deep love for mathematics, enjoy
-understanding the physics and programming computational algorithms.
+I am a Master’s student in Computational Mechanics at RWTH Aachen University. I am currently employed as an Intern - Developer at Simulia Dassault Systemes, a Research Assistant at APS GmbH (European Center for Mechatronics) and Developer - Robot Software Framework at Carologistics - Robocup Logistics League team. I am also currently doing my Mini-thesis at Institute for General Mechanics, RWTH Aachen on 'Constitutive Viscoplastic Modeling using Artificial Neural Networks'.
 
 Please feel free to navigate through the site to find out more about me.
 
 
-| Year| Degree/Certificate | University/Board | Marks |
+| Year| Degree/Certificate | University/Board |
 | ------------- |:-------------:| -----:|
-| 2018| M.SC. Computational Engineering | Ruhr University Bochum| 1.5 /4 (1 being highest possible)  |
-| 2013| B.E. (Hons) Mechanical Engineering| BITS Pilani,Hyderabad Campus | 8.1 / 10 |
-| 2009| All India Senior Secondary certificate |   Intermediate Board of Secondary School| 94.3% |
-| 2007| All India Secondary School certificate | Andhra Pradesh State Board | 91% |
+| 2019| M.SC. Computational Mechanics | RWTH Aachen University |
+| 2014| B.Tech. Mechanical Engineering| College of Engineering, Pune (COEP) |
+| 2010| All India Senior Secondary certificate | Intermediate Board of Secondary School|
+| 2008| All India Secondary School certificate | Maharashtra State Board |
 
 

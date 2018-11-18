@@ -2,46 +2,64 @@
 title: ""
 permalink: /Industry/
 header:
-classes: wide	
+classes: wide
 ---
-In my short career, I have a multicultural industrial exposure of a cumulative 5 years in different cities of India and also in a German Mittelstand company. 
 
->  **Huf Hülsbeck and Fürst Gmbh, Velbert, Germany** ( May 2016 to April 2018)
 
-**Student Job** at *Product Development Systems- Door Handles*
+>  **CAROLOGISTICS, Aachen, Germany** ( November 2018 to Present)
 
--   I worked with the Design lead engineers and System lead engineers for
-    Benchmarking, CATIA V5- design changes and analysis.
--   I have a certification in CATIA-V5 Generative shape design and attending
-    training in PDM( product data management)
+**Developer** at *- FAWKES Robot Software Framework*
 
->   **Fiat India Automobiles Limited, Pune, India** (July 2013 to September 2015)
+-   Autonomous robots have to intelligently implement production steps to complete a logistical task and compete with otherteams.
 
-**Sr. Executive** *Research and Development of Powertrain*
--   I was a Team Leader for 15 Associates (Permanent mechanics, Temporary
-    mechanics, and apprentices) and responsible for Simulation of the Vehicle
-    conditions for engines and transmissions, designing of the testing cycles on
-    the AVL-Transient Dynamometer test bench using 1.3.2 AVL-PUMA test bench
-    interface 
--   Diagnostic Engineer for finding and solving the problems of Engines,
-    transmissions and Test bench with diagnostic tools like Di- Analyzer, HELIOS
-    and ETAS-INCA
--   Conducted Homologation and Development tests at Automotive Research
-    Association of India- Pune
--   Safety Pillar officer for R & D test benches and vehicle ramp, responsible
-    for ISO 140001 and OHSAS ISO 18001 EMS audit adherence & compliance. Faced
-    four internal audits, four FIAT-APAC region audits and one BSi- Surveillance
-    audit. Also a member for ISO-TS 9000 audit adherence & compliance
+>   **Dassault Systemes, Aachen, Germany** (July 2018 to Present)
 
->   **CSIR-National Aerospace labs- Bangalore** (July 4 2012–Dec 14 2012)
+**Intern - Developer** *, SIMULIA CoE*
+-   Develop an Abaqus plugin to calculate the desired plastic strain forisotropic
+    hardening of a fuel pipe using USDFLD and UAMP subroutines.
+-   Mini-thesis: ”Combine an Artificial Neural Network with an UMAT subroutine
+    to replace a Chaboche Viscoplastic Constitutive Law in Abaqus.”
+-   Develop an Abaqus Python script for preprocessing and calculating stress
+    developed for an interference fit between cam bearings and a shaft.
+-   Parallel execution with MPI using VUEXTERNALDB and VDISP subroutines.
 
-Bachelor Thesis: Structural Dynamics Division
+>   **APS GmbH, Aachen, Germany** (April 2018 to Present)
 
->   **Hyderabad Industries Limited-Hyderabad** (May 23 2011- July 15 2011)
+**Research Associate**
 
-Bachelor intern: Inventory Management and Optimization
--   Performed a Study on the Finished Goods Inventory of the company. Applied a
-    Deterministic Model to optimize the inventory and projected the probable
-    amount of Savings if the model were applied.
+-   Collision control using ROS, MoveIt! (FCL) and Gazebo.
+-   Assembly of Train Windows in a Train Wall using a Laser Based Sensor.
+-   Sensing Strategy and Path Creation for Laser Sensor based Welding and
+    Palletizing forthe ABB IRB 7600 and KUKA LBR IV.
+
+>   **Dassault Systemes, Pune, India** (December 2015 to August 2017)
+
+**Simulations Developer (CAE, Robotics)** *, Industry Solutions Group*
+-   Developing Industrial Solutions in ABAQUS, Dymola, and CATIA on:
+    Analysis Portfolio: Nonlinear Structural Analysis
+    Geometric Modeling: ICEM Surf, Subdivision and Freestyle Surfacing
+    Scripting: ABAQUS Scripting, VBA Automation
+-   3DEXPERIENCE Digital Twin using Model-Based System Engineering:
+    Poppy Humanoid Robot, Glass Cleaning Robot, Automatic Wiper System using
+    an IR Sensor, 6-DOF Robotic Arm, Automotive Simulator System
+-   Network-Based (IoT) Devices: Automated Lights using the ESP8266 MCU
+
+>   **Autocop, Bengaluru, India** (July 2014 to November 2015)
+
+**Mechanical Design Engineer** *, OEM Division*
+-   Development of TATA Nano Remote Controlled Boot Release accessory, Snap
+    Fit casing of Automotive Leg-room Lights, and a Logo Projection Lamp.
+-   Rear-View Camera Development: Benchmarking CAD models (IP67 casing).
+    Geometrical Mapping for Horizon Level and Camera Axis Angle in IRVM.
+
+>   **Alfa LAVAL, Dapodi, India** (June 2013 to July 2013)
+
+**Intern** *, Process Equipment Manufacturing*
+-   Reboiler Design: Calculation of heat transfer coefficient and tube pattern.
+
+>   **TATA Steel, Ranjangao, India** (May 2012 to July 2012)
+
+**Intern**
+-   Hot-Rolled Steel workplace optimization and Godrej FG pallet standardization.
 
 
