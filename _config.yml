@@ -12,20 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+github: [metadata]
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiran CHHATRE"
+title                    : "My Portfolio"
 title_separator          : "-"
-name                     : "Kiran CHHATRE"
-description              : "Data Science Portfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Abhijeet Pendyala"
+description              : "Thank you for visiting. This website gives an overview of my Data Science Journery"
+url                      : "http://AbhijeetPendyala.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : AbhijeetPendyala/AbhijeetPendyala.github.io
+teaser                   : /assets/images/500x300.png# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -79,8 +80,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:
-  username               :
+facebook: 
+  username               : "https://www.facebook.com/p.abhijeet777"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -101,52 +102,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kiran CHHATRE"
-  avatar           : "/images/bio-pic.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Aachen, Germany"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kiranchhatre3@gmail.com
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/kiranchhatre/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kiranchhatre"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+  name             : "Abhijeet Pendyala"
+  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi there. I am an aspiring Machine Learning Engineer, currently working on a Novel Large Scale ML algorithm to speedup SVMs"
+  location         : "Bochum, Germany"
+  github           : "AbhijeetPendyala"
+  linkedin         : "abhijeet-pendyala-3ba00942/"
 # Site Footer
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kiranchhatre"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+
+  linkedin          : "https://www.linkedin.com/in/abhijeet-pendyala-3ba00942/"
+  github           : "https://github.com/mmistakes"
 
 
 # Reading Files
@@ -275,6 +241,15 @@ compress_html:
     envs: development
 
 
+#collections:
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
+
 # Defaults
 defaults:
   # _posts
@@ -285,16 +260,35 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
-  # _pages
+# _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
 
-
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
+# Plugin: Table of Contents (jekyll-toc)
+toc:
+  min_level: 2
+  max_level: 2
+  list_class: "toc__menu"
+  item_class: "toc__entry"
+  item_prefix: "toc__"

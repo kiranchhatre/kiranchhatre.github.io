@@ -1,14 +1,33 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Deep Learning"
-    url: /deep-learning/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+   #- title: "About"
+    # url: /about/
+   - title: "Education"
+     url: /Education/
+   - title: "Research/Projects"
+     url: /Research/
+   - title: "Industry"
+     url: /Industry/
+   - title: "Achievements"
+     url: /Achievements/
+   - title: "CV"
+     url: /CV/
+   - title: "10 insights into my life"
+     url: /25 things about me/
+
+
+
+
+
+
+
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "Contact"
+  #   url: /Contact/
