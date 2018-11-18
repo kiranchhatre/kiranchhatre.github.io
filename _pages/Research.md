@@ -25,8 +25,7 @@ mathjax: "true"
 
 -   Cross Entropy Loss Function
 -   [Code](https://github.com/kiranchhatre/Convolutional_Neural_Network_Visual_Recognition)
-
-$$−(ylog(p)+(1−y)log(1−p))$$
+-   Math: $$−(ylog(p)+(1−y)log(1−p))$$
 
 >   **Recommendation System**
 
@@ -35,7 +34,7 @@ $$−(ylog(p)+(1−y)log(1−p))$$
 -   [Code](https://github.com/kiranchhatre/lightfm_recommendation_algorithm)
 -   https://movielens.org/
 
-'''Python
+'''python
 
         def sample_recommendation(model, data, user_ids):
         # number of users and movies in training data
