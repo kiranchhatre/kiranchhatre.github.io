@@ -108,12 +108,13 @@ author:
   location         : "Aachen, Germany"
   github           : "kiranchhatre"
   linkedin         : "kiranchhatre/"
+  YouTube          : "BigAI/"
 # Site Footer
 footer:
 
   linkedin          : "https://www.linkedin.com/in/kiranchhatre/"
-  github           : "https://github.com/kiranchhatre"
-
+  github            : "https://github.com/kiranchhatre"
+  YouTube           : "https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw"
 
 # Reading Files
 include:
