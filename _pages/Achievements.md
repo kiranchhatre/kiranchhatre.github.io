@@ -21,6 +21,7 @@ classes: wide
 ## Miscellaneous
 
 >   Guinness World Record - 3248 people solving Rubik's cube simultaneously | 04 Nov 2012
+
 >   Member of [COEP SAE BAJA team](https://www.facebook.com/COEPMotorsports/) - Steering Subsystem
 
 
