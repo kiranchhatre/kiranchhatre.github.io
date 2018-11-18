@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
->  **CAROLOGISTICS, Aachen, Germany** ( November 2018 to Present)
+>  **[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany** ( November 2018 to Present)
 
 **Developer** at *- FAWKES Robot Software Framework*
 
@@ -34,12 +34,15 @@ classes: wide
 
 **Simulations Developer (CAE, Robotics)** *, Industry Solutions Group*
 -   Developing Industrial Solutions in ABAQUS, Dymola, and CATIA on:
-    Analysis Portfolio: Nonlinear Structural Analysis
-    Geometric Modeling: ICEM Surf, Subdivision and Freestyle Surfacing
-    Scripting: ABAQUS Scripting, VBA Automation
+    -   Analysis Portfolio: Nonlinear Structural Analysis
+    -   Geometric Modeling: ICEM Surf, Subdivision and Freestyle Surfacing
+    -   Scripting: ABAQUS Scripting, VBA Automation
 -   3DEXPERIENCE Digital Twin using Model-Based System Engineering:
-    Poppy Humanoid Robot, Glass Cleaning Robot, Automatic Wiper System using
-    an IR Sensor, 6-DOF Robotic Arm, Automotive Simulator System
+    -   Poppy Humanoid Robot
+    -   Glass Cleaning Robot
+    -   Automatic Wiper System using an IR Sensor
+    -   6-DOF Robotic Arm
+    -   Automotive Simulator System
 -   Network-Based (IoT) Devices: Automated Lights using the ESP8266 MCU
 
 >   **Autocop, Bengaluru, India** (July 2014 to November 2015)
