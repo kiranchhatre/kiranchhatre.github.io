@@ -36,31 +36,32 @@ $$−(ylog(p)+(1−y)log(1−p))$$
 -   https://movielens.org/
 
 '''Python
-    def sample_recommendation(model, data, user_ids):
-    # number of users and movies in training data
-    n_users, n_items = data['train'].shape
-    # generate recommendations for each user we input
-    for user_id in user_ids:
-        # movies they already like
-        known_positives = data['item_labels'][data['train'].tocsr()[user_id].indices]
 
-        # movies our model predicts they will like
-        scores = model.predict(user_id, np.arange(n_items))
+        def sample_recommendation(model, data, user_ids):
+        # number of users and movies in training data
+        n_users, n_items = data['train'].shape
+        # generate recommendations for each user we input
+        for user_id in user_ids:
+            # movies they already like
+            known_positives = data['item_labels'][data['train'].tocsr()[user_id].indices]
 
-        # rank them in order of most liked to the least
-        top_items = data['item_labels'][np.argsort(-scores)]
+            # movies our model predicts they will like
+            scores = model.predict(user_id, np.arange(n_items))
 
-        # print out the results
-        print('User %s' % user_id)
-        print('Known positives:')
+            # rank them in order of most liked to the least
+            top_items = data['item_labels'][np.argsort(-scores)]
 
-        for x in known_positives[:3]:
-            print('        %s' % x)
+            # print out the results
+            print('User %s' % user_id)
+            print('Known positives:')
 
-        print('Recommended:')
+            for x in known_positives[:3]:
+                print('        %s' % x)
 
-        for x in top_items[:3]:
-            print('         %s' % x)
+            print('Recommended:')
+
+            for x in top_items[:3]:
+                print('         %s' % x)
 '''
 
 >   **Supervised learning with 5 layer deep neural network using ReLU for image classification.**
