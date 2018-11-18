@@ -4,6 +4,6 @@ permalink: /CV/
 header:
 ---
 
-You can find my CV [here](https://drive.google.com/drive/folders/1jZ__1XBUKU-EhuSeuwPZhpon6-3Bxmnw)
+You can find my CV [here](https://drive.google.com/open?id=1L0TRE9URmq8475PvVugQxpiMC4ZSaQL2)
 
 
