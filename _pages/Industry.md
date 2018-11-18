@@ -17,8 +17,6 @@ classes: wide
 **Intern - Developer** *, SIMULIA CoE*
 -   Develop an Abaqus plugin to calculate the desired plastic strain forisotropic
     hardening of a fuel pipe using USDFLD and UAMP subroutines.
--   Mini-thesis: ”Combine an Artificial Neural Network with an UMAT subroutine
-    to replace a Chaboche Viscoplastic Constitutive Law in Abaqus.”
 -   Develop an Abaqus Python script for preprocessing and calculating stress
     developed for an interference fit between cam bearings and a shaft.
 -   Parallel execution with MPI using VUEXTERNALDB and VDISP subroutines.
