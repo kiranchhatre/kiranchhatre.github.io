@@ -20,13 +20,13 @@ locale                   : "en-US"
 title                    : "Kiran Chhatre"
 title_separator          : "-"
 name                     : "Kiran Chhatre"
-description              : "Thank you for visiting. This website gives an overview of my Data Science Journery"
+description              : "Data Science Portfolio"
 url                      : "https://kiranchhatre.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kiranchhatre/kiranchhatre.github.io
 teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 300
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
