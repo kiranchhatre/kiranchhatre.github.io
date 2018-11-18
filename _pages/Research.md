@@ -1,6 +1,7 @@
 ---
 title: ""
 permalink: /Research/
+tags: [machine learning, data science, neural network]
 header:
 classes: wide
 mathjax: "true"
