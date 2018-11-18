@@ -67,9 +67,6 @@ mathjax: "true"
 
 -   [Code](https://github.com/kiranchhatre/L_layer_deep_neural_network)
 
->   **Work Portfolio**
-
--   [Link](https://drive.google.com/open?id=1huvrt_cft7wDZssJ8ZKH2KEnA_FcHRAp)
 
 >   **Kaggle competition**
 
