@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
->  *[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany* ( November 2018 to Present)
+>  **[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany** ( November 2018 to Present)
 
 **Developer** at *- FAWKES Robot Software Framework*
 
