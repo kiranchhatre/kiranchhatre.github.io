@@ -7,20 +7,50 @@ classes: wide
 
 ## Data Science
 
-
-[![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/DPNN.png){: .align-right}](https://www.coursera.org/account/accomplishments/verify/4N59Y3ERFY3P)
 >  **Neural Networks and Deep Learning**
-: deeplearning.ai, Coursera.
+: deeplearning.ai, Coursera
+[![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/DPNN.png){: .align-right}](https://www.coursera.org/account/accomplishments/verify/4N59Y3ERFY3P)
+
 
 Python basics with Numpy, Logistic Regression with Neural Network mindset, Deep Neural Network for Image classification
 
-[![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IBMDS.png){: .align-right}](https://www.youracclaim.com/badges/88c5411f-6f84-42e2-905c-b2d377247d46/linked_in_profile)
 >  **Data Science Orientation**
-: IBM, Coursera.
+: IBM, Coursera
+[![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IBMDS.png){: .align-right}](https://www.youracclaim.com/badges/88c5411f-6f84-42e2-905c-b2d377247d46/linked_in_profile)
 
 Data science, Artificial intelligence (AI), and Machine Learning
 
+>  **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+: deeplearning.ai, Coursera
+Hyperparameter tuning,Batch Normalizaiton, Mini-batch gradient descent, Momentum, RMSprop, Adam and Tensor flow tutorial.
 
+>  **Structuring Machine Learning Projects**
+: deeplearning.ai, Coursera
+Diagonising errors, Size of train/test/dev sets, single number evalutation metric, avoidable bias, surpassing human level performance, transfer learning, end-to-end deep learning.
+
+>  **Convolutional Neural Networks**
+: deeplearning.ai, Coursera
+Image classification with Convolutional Neural Networks and Residual Neural Networks, Car detection with YOLOv2, Art generation with Neural Style transfer,Face recognition with FaceNet.
+
+>  **Sequence Models**
+: deeplearning.ai, Coursera
+Recurrent Nueral Networks, Character level Language modeling, Jazz improvisation with LSTM, NLP & word embeddings, Sentiment analysis, Nueral machine translation with attention, Trigger word detection.
+
+>  **Machine Learning with TensorFlow on Google Cloud Platform**
+: Google Cloud, Coursera
+-
+
+>  **IBM Data Science Professional Certificate**
+: IBM, Coursera
+-
+
+>  **Statistics with R**
+: Duke University, Coursera
+-
+
+>  **Machine Learning with Python**
+: IBM, Coursera
+-
 
 
 
