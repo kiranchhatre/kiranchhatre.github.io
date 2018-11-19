@@ -19,7 +19,6 @@ mathjax: "true"
 
 >   **Word2Vec using TensorFlow using dummy data**
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/word2vec.png){: .align-right}
 
 -   [Code](https://github.com/kiranchhatre/Word2vec)
 
@@ -28,8 +27,6 @@ mathjax: "true"
 -   Cross Entropy Loss Function
 -   [Code](https://github.com/kiranchhatre/Convolutional_Neural_Network_Visual_Recognition)
 -   Math: $$−(ylog(p)+(1−y)log(1−p))$$
-
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vision.png){: .align-right}
 
 >   **Recommendation System**
 
@@ -72,7 +69,6 @@ mathjax: "true"
 -   [Code](https://github.com/kiranchhatre/L_layer_deep_neural_network)
 
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/DNN.png){: .align-right}
 
 
 >   **Kaggle competition**
