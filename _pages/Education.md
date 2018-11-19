@@ -42,19 +42,19 @@ classes: wide
 
 >  **Machine Learning with TensorFlow on Google Cloud Platform**
 : Google Cloud, Coursera
--
+-   Ongoing
 
 >  **IBM Data Science Professional Certificate**
 : IBM, Coursera
--
+-   Ongoing
 
 >  **Statistics with R**
 : Duke University, Coursera
--
+-   Ongoing
 
 >  **Machine Learning with Python**
 : IBM, Coursera
--
+-   Ongoing
 
 
 
