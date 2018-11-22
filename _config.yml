@@ -79,9 +79,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "KiranChhatre"
 facebook:
-  username               : "https://www.facebook.com/kiran.chhatre"
+  username               : "kiran.chhatre"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -109,12 +109,14 @@ author:
   github           : "kiranchhatre"
   linkedin         : "kiranchhatre/"
   YouTube          : "BigAI/"
+  Twitter          : "KiranChhatre"
 # Site Footer
 footer:
 
   linkedin          : "https://www.linkedin.com/in/kiranchhatre/"
   github            : "https://github.com/kiranchhatre"
   YouTube           : "https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw"
+  Twitter           : "https://twitter.com/KiranChhatre"
 
 # Reading Files
 include:
