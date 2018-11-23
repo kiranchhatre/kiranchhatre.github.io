@@ -8,7 +8,7 @@ classes: wide
 
 >  **[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany** ( November 2018 to Present)
 
-**Developer** at *- FAWKES Robot Software Framework*
+**Developer** *, FAWKES Robot Software Framework*
 
 -   Component-based development environment for robotic applications. Development of the Behavior Engine, a layer for development, execution, and monitoring of robot behaviors.
 
