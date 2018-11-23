@@ -10,7 +10,7 @@ classes: wide
 
 **Developer** at *- FAWKES Robot Software Framework*
 
--   Autonomous robots have to intelligently implement production steps to complete a logistical task and compete with otherteams.
+-   Component-based development environment for robotic applications. Development of the Behavior Engine, a layer for development, execution, and monitoring of robot behaviors.
 
 >   **[Dassault Systemes](https://www.3ds.com), Aachen, Germany** (July 2018 to Present)
 
