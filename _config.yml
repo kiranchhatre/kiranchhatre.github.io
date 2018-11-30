@@ -105,7 +105,8 @@ author:
   name             : "Kiran Chhatre"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi there. I am an aspiring Data Scientist exercising passionately in the field of Deep Learning, Exploratory Analysis, and Data Visualizations.
-  SolveAIorDieTrying"
+
+  #SolveAIorDieTrying"
   location         : "Aachen, Germany"
   github           : "kiranchhatre"
   linkedin         : "kiranchhatre/"
