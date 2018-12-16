@@ -3,7 +3,6 @@ title: "Contact"
 permalink: /Contact/
 header:
 ---
-<br/>
 
 **[Facebook](https://www.facebook.com/kiran.chhatre)**  ||  **[YouTube](https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw)**  ||  **[GitHub](https://github.com/kiranchhatre)**  || **[LinkedIn](https://www.linkedin.com/in/kiranchhatre/)**
 
