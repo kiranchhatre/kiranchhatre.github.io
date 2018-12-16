@@ -1,43 +1,77 @@
----
 title: "Contact"
 permalink: /Contact/
-header:
+published: true
+process:
+    markdown: true
+child_type: default
+routable: true
+cache_enable: true
+visible: true
+form:
+    name: contact
+    fields:
+        -
+            name: name
+            label: Name
+            placeholder: 'Your Name'
+            autofocus: 'on'
+            autocomplete: 'on'
+            type: text
+            validate:
+                required: true
+        -
+            name: email
+            label: E-Mail
+            placeholder: 'Your eMail address'
+            type: email
+            validate:
+                required: true
+        -
+            name: message
+            label: Message
+            placeholder: 'Your message'
+            type: textarea
+            validate:
+                required: true
+        -
+            name: privacyAccepted
+            label: 'I consent that this personal data will be processed according to our [privacy notice](/legal/privacy).'
+            type: checkbox
+            style: 'float: left; margin-top: 6px;'
+            validate:
+                required: true
+                message: 'Permission to use the given data must be granted!'
+        -
+            name: privacyDescription
+            label: 'You may withdraw this consent at any time via eMail to [me@somewhere.com](mailto:me@somewhere.com).'
+            type: display
+            markdown: true
+            content: null
+    buttons:
+        -
+            type: submit
+            value: Submit
+        -
+            type: reset
+            value: Reset
+    process:
+        -
+            email:
+                subject: '[somewhere.com Contact form] {{ form.value.name|e }}'
+                body: '{% include ''forms/data.html.twig'' %}'
+        -
+            save:
+                fileprefix: contact-
+                dateformat: Ymd-His-u
+                extension: txt
+                body: '{% include ''forms/data.txt.twig'' %}'
+        -
+            message: ''
+        -
+            display: thankyou
 ---
 
-**Email:** kiranchhatre3@gmail.com
+# Contact form
 
-**Address:** Roermonder Straße 121, 52072, Aachen, Germany
-
-Name: <input type="text" id="name" name="name"/>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2522.410104977617!2d6.068228015472783!3d50.7865078709744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0999c25dc1cb3%3A0xf339697aeaddd7ee!2sRoermonder+Str.+121%2C+52072+Aachen!5e0!3m2!1sen!2sde!4v1544997556454" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-!form: Form Header Name
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Choose an *email*?:  ______________
-Choose a *password*: ***___________
-
-Describe why you want to register:
-[________________________________]
-[________________________________]{description}
-
-*Gender*: [ "male" / "female" ]
-
-Which of these *features* will you need?:
-* [X] simplicity
-* [ ] Don't know
-* [ ] complete
-
-Radio Button. Which *pet* do you want most?:
-* (X) cat
-* ( ) dog
-* ( ) bird
-
-          [>>  OK   <<] [!! RESET !!]
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-{action="MAILTO:someone@example.com" method="post" enctype="text/plain"}
-
-
+Please describe your concerns, I will answer as soon as possible.
+Direct contact: [me@somewhere.com](mailto:me@somewhere.com)
