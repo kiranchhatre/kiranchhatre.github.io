@@ -6,6 +6,10 @@ header:
 
 **[Facebook](https://www.facebook.com/kiran.chhatre)**  ||  **[YouTube](https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw)**  ||  **[GitHub](https://github.com/kiranchhatre)**  || **[LinkedIn](https://www.linkedin.com/in/kiranchhatre/)**
 
+You can find my CV [here](https://drive.google.com/open?id=1SDBOa8Cud0ALnpc1t_JncgW-515idMMN).
+
+You can find my Portfolio [here](https://drive.google.com/open?id=1huvrt_cft7wDZssJ8ZKH2KEnA_FcHRAp).
+
 **Email:** [kiranchhatre3@gmail.com](mailto:kiranchhatre3@gmail.com); [kiran.chhatre@rwth-aachen.de](mailto:kiran.chhatre@rwth-aachen.de)
 
 **Phone:** +49 1590 1349350
