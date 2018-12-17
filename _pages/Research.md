@@ -21,7 +21,7 @@ mathjax: "true"
 
 -   Fawkes is a component-based Software Framework for Robotic Real-Time Applications for various Platforms and Domains.
 
--   Video: <a href="http://www.youtube.com/watch?feature=player_embedded&v=pt4CqpuaVxE
+-   Video:        <a href="http://www.youtube.com/watch?feature=player_embedded&v=pt4CqpuaVxE
 " target="_blank"><img src="http://img.youtube.com/vi/pt4CqpuaVxE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
