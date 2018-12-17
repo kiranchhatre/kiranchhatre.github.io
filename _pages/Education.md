@@ -5,8 +5,6 @@ header:
 classes: wide
 ---
 
-## Data Science
-
 >  **Neural Networks and Deep Learning**
 : deeplearning.ai, Coursera
 
