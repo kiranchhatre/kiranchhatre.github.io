@@ -4,7 +4,7 @@ main:
     # url: /about/
    - title: "Education"
      url: /Education/
-   - title: "Research/Projects"
+   - title: "Projects"
      url: /Research/
    - title: "Industry"
      url: /Industry/
