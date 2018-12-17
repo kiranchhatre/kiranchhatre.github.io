@@ -77,7 +77,7 @@ Today, Fawkes consists of an efficient communication middleware with a hybrid bl
 -   [https://movielens.org/](https://movielens.org/)
 
 
-'''
+
 
         def sample_recommendation(model, data, user_ids):
         # number of users and movies in training data
@@ -104,7 +104,7 @@ Today, Fawkes consists of an efficient communication middleware with a hybrid bl
 
             for x in top_items[:3]:
                 print('         %s' % x)
-'''
+
 
 >   **Supervised learning with 5 layer deep neural network using ReLU for image classification.**
 
