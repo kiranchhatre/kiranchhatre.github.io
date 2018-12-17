@@ -23,6 +23,8 @@ mathjax: "true"
 
 -   [Repository](https://github.com/kiranchhatre/Navier_Stokes_Equations)
 
+![ns](/assets/images/ns.png)
+
 >   **Word2Vec using TensorFlow using dummy data**
 
 
