@@ -56,8 +56,8 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 -   3DEXPERIENCE Digital Twin using Model-Based System Engineering:
     -   Poppy Humanoid Robot
     -   Glass Cleaning Robot
-    -   Automatic Wiper System using an IR Sensor
-    -   6-DOF Robotic Arm
+    -   Automatic Wiper System using an IR Sensor<br/>![wiper](/assets/images/wiper.png)
+    -   6-DOF Robotic Arm<br/>![arm1](/assets/images/arm1.png)
     -   Automotive Simulator System
 -   Network-Based (IoT) Devices: Automated Lights using the ESP8266 MCU
 
@@ -73,6 +73,11 @@ Prototype made of Delrin material:<br/>
 -   Rear-View Camera Development: Benchmarking CAD models (IP67 casing).
     Geometrical Mapping for Horizon Level and Camera Axis Angle in IRVM.<br/>
 ![camera](/assets/images/camera.png)
+-   FORD - Vehicle Modification Center<br/>
+Designed the Delrin parts of the spoiler jig for Ford EcoSport:<br/>
+![ford](/assets/images/ford.png)
+The mounted spoiler jig on the boot door of Ford EcoSport:<br/>
+![ford1](/assets/images/ford1.png)
 
 
 >   **[Alfa LAVAL](https://www.alfalaval.com/), Dapodi, India** (June 2013 to July 2013)
