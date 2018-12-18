@@ -53,7 +53,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
     -   Analysis Portfolio: Nonlinear Structural Analysis
     -   Geometric Modeling: ICEM Surf, Subdivision and Freestyle Surfacing
     -   Scripting: ABAQUS Scripting, VBA Automation
--   3DEXPERIENCE Digital Twin using Model-Based System Engineering:
+-   3DEXPERIENCE Digital Twin using Model-Based System Engineering:<br/>![fdpprog](/assets/images/fdpprog.png)
     -   Poppy Humanoid Robot
     -   Glass Cleaning Robot
     -   Automatic Wiper System using an IR Sensor<br/>![wiper](/assets/images/wiper.png)
