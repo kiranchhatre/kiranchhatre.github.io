@@ -15,7 +15,7 @@ classes: wide
 
 >   **[Dassault Systemes](https://www.3ds.com), Aachen, Germany** (July 2018 to Present)
 
-**Intern - Developer** *, SIMULIA CoE*
+**Intern - Developer** *, SIMULIA Center of Excellence*
 -   [Letter of Experience](https://drive.google.com/open?id=1D2Gl2NobQJLpF23weUPUzirSpjC2tf_a)
 -   Develop an Abaqus plugin to calculate the desired plastic strain for isotropic
     hardening of a fuel pipe using USDFLD and UAMP subroutines.
