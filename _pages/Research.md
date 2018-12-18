@@ -49,7 +49,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 ![w2v](/assets/images/w2v.png)
 
->   **He et al Initialization for Neural Networks**
+>   **He et al (2015) Initialization for Neural Networks**
 
 -   [Repository](https://github.com/kiranchhatre/Initialization_techniques/blob/master/Initialization%20techniques.ipynb)
 
