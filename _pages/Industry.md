@@ -56,8 +56,10 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 -   3DEXPERIENCE Digital Twin using Model-Based System Engineering:<br/>![fdpprog](/assets/images/fdpprog.png)
     -   Poppy Humanoid Robot
     -   Glass Cleaning Robot
-    -   Automatic Wiper System using an IR Sensor<br/>![wiper](/assets/images/wiper.png)
-    -   6-DOF Robotic Arm<br/>![arm1](/assets/images/arm1.png)
+    -   Automatic Wiper System using an IR Sensor<br/>
+    Designed a logical architecture for a Wiper rig setup, from where the IR sensor’s run time values were mapped and communicated to CATIA using an FMI. It simulated the physical and virtual twin of the Windscreen Wiper system, whenever the sensor detected water on the shield.<br/>![wiper](/assets/images/wiper.png)
+    -   6-DOF Robotic Arm<br/>
+    Controlled the motion of a Robotic Arm with six servo-motors using Arduino - Pulse Width Modulation and Functional Mock-up Interface in CATIA Systems.<br/>![arm1](/assets/images/arm1.png)
     -   Automotive Simulator System
 -   Network-Based (IoT) Devices: Automated Lights using the ESP8266 MCU
 
@@ -70,7 +72,7 @@ Prototype made of Delrin material:<br/>
 ![tntgo1](/assets/images/tntgo1.png)
 -   Snap Fit casing of Automotive Leg-room Lights<br/>
 ![snap](/assets/images/snap.png)
--   Rear-View Camera Development: Benchmarking CAD models (IP67 casing).
+-   Rear-View Camera Development using Fused Deposition Modeling prototype: Benchmarking CAD models (IP67 casing).
     Geometrical Mapping for Horizon Level and Camera Axis Angle in IRVM.<br/>
 ![camera](/assets/images/camera.png)
 -   FORD - Vehicle Modification Center<br/>
