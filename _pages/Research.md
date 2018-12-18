@@ -57,6 +57,17 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 -   [Repository](https://github.com/kiranchhatre/Gradient_Checking_Algorithm/blob/master/Gradient%20Checking%20Algorithm.ipynb)
 
+>   **Poppy Humanoid Robot**
+
+-   Contribution to the open source platform of interactive 3D printed humanoid robots.
+-   [https://www.poppy-project.org](https://www.poppy-project.org)
+
+-   Video:<br/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vp25SSnMDRw
+" target="_blank"><img src="http://img.youtube.com/vi/vp25SSnMDRw/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 >   **Football Corporation Goalkeeper Position Recommendation**
 
 -   [Repository](https://github.com/kiranchhatre/French-Football-Corporation-Goalkeeper-Position-Recommendation-/blob/master/French%20Football%20Corporation%20Goalkeeper%20Position%20Recommendation%20.ipynb)
@@ -121,6 +132,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 -   [Repository](https://github.com/kiranchhatre/Planar_data_classification/blob/master/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
 
 ![pdc](/assets/images/pdc.png)
+
+>   **Dymola Systems Simulation of a Washing Machine**
+
+-   Video:<br/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vp25SSnMDRw
+" target="_blank"><img src="http://img.youtube.com/vi/vp25SSnMDRw/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 >   **Kaggle competition**
 
