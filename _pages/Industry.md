@@ -11,6 +11,7 @@ classes: wide
 **Developer** *, FAWKES Robot Software Framework*
 
 -   Component-based development environment for robotic applications. Development of the Behavior Engine, a layer for development, execution, and monitoring of robot behaviors.
+-   C++, LUA, CLIPS
 
 >   **[Dassault Systemes](https://www.3ds.com), Aachen, Germany** (July 2018 to Present)
 
