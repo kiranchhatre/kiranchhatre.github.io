@@ -75,7 +75,7 @@ Prototype made of Delrin material:<br/>
 ![camera](/assets/images/camera.png)
 -   FORD - Vehicle Modification Center<br/>
 Designed the Delrin parts of the spoiler jig for Ford EcoSport:<br/>
-![ford](/assets/images/ford.png)
+![ford](/assets/images/ford.png)<br/>
 The mounted spoiler jig on the boot door of Ford EcoSport:<br/>
 ![ford1](/assets/images/ford1.png)
 
