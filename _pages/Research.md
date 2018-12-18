@@ -21,7 +21,7 @@ mathjax: "true"
 
 -   Fawkes is a component-based Software Framework for Robotic Real-Time Applications for various Platforms and Domains.
 
--   Video:<br/>
+-   **Video**:<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pt4CqpuaVxE
 " target="_blank"><img src="http://img.youtube.com/vi/pt4CqpuaVxE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
@@ -62,7 +62,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 -   Contribution to the open source platform of interactive 3D printed humanoid robots.
 -   [https://www.poppy-project.org](https://www.poppy-project.org)
 
--   Video:<br/>
+-   **Video**:<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=F8lEnWRMn9g
 " target="_blank"><img src="http://img.youtube.com/vi/F8lEnWRMn9g/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
@@ -135,7 +135,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 >   **Dymola Systems Simulation of a Washing Machine**
 
--   Video:<br/>
+-   **Video**:<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vp25SSnMDRw
 " target="_blank"><img src="http://img.youtube.com/vi/vp25SSnMDRw/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
