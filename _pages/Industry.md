@@ -66,6 +66,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 **Mechanical Design Engineer** *, OEM Division*
 -   Development of TATA Nano Remote Controlled Boot Release accessory.<br/>
 ![tntgo](/assets/images/tntgo.png)<br/>
+Prototype made of Delrin:
 ![tntgo1](/assets/images/tntgo1.png)
 -   Snap Fit casing of Automotive Leg-room Lights<br/>
 ![snap](/assets/images/snap.png)
