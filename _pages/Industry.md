@@ -64,10 +64,15 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 >   **[Autocop](https://www.autocoptrackpro.com/), Bengaluru, India** (July 2014 to November 2015)
 
 **Mechanical Design Engineer** *, OEM Division*
--   Development of TATA Nano Remote Controlled Boot Release accessory, Snap
-    Fit casing of Automotive Leg-room Lights, and a Logo Projection Lamp.
+-   Development of TATA Nano Remote Controlled Boot Release accessory.<br/>
+![tntgo](/assets/images/tntgo.png)
+![tntgo1](/assets/images/tntgo1.png)
+-   Snap Fit casing of Automotive Leg-room Lights<br/>
+![snap](/assets/images/snap.png)
 -   Rear-View Camera Development: Benchmarking CAD models (IP67 casing).
-    Geometrical Mapping for Horizon Level and Camera Axis Angle in IRVM.
+    Geometrical Mapping for Horizon Level and Camera Axis Angle in IRVM.<br/>
+![camera](/assets/images/camera.png)
+
 
 >   **[Alfa LAVAL](https://www.alfalaval.com/), Dapodi, India** (June 2013 to July 2013)
 
