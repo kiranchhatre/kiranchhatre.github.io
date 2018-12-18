@@ -24,7 +24,7 @@ mathjax: "true"
 -   Video:<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pt4CqpuaVxE
 " target="_blank"><img src="http://img.youtube.com/vi/pt4CqpuaVxE/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 -   It is developed and used for cognitive robotics real-time applications such as soccer, domestic service, or industrial mobile robots. It supports fast information exchange and efficient combination and coordination of different components to suit the needs of mobile robots operating in uncertain environments.<br/>
 -   Fawkes consists of an efficient communication middleware with a hybrid blackboard and messaging design, a flexible set of software libraries to make developing robotic functionalities reasonably simple, and a coherent development and run-time environment with tools that make integrating and running robotic applications achievable. But Fawkes also comprises a large set of plugins, software components that implement typical robot functionality like self-localization, path planning, perception, or behavior execution and monitoring. Several robot platforms like the Robotino, Nao, or Roomba are supported out-of-the-box. Fawkes also integrates with other software frameworks like ROS or Player and integrates third party software like MongoDB, Prometheus, CLIPS, or OpenNI. By using ideas from aspect-oriented programming, and run-time requirement assertion by the framework, it is easy to access these resources with only a few lines of code.
@@ -63,9 +63,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 -   [https://www.poppy-project.org](https://www.poppy-project.org)
 
 -   Video:<br/>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vp25SSnMDRw
-" target="_blank"><img src="http://img.youtube.com/vi/vp25SSnMDRw/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F8lEnWRMn9g
+" target="_blank"><img src="http://img.youtube.com/vi/F8lEnWRMn9g/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 
 >   **Football Corporation Goalkeeper Position Recommendation**
@@ -138,7 +138,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 -   Video:<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vp25SSnMDRw
 " target="_blank"><img src="http://img.youtube.com/vi/vp25SSnMDRw/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 
 >   **Kaggle competition**
