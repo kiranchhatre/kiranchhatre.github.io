@@ -72,7 +72,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 
 -   [Repository](https://github.com/kiranchhatre/French-Football-Corporation-Goalkeeper-Position-Recommendation-/blob/master/French%20Football%20Corporation%20Goalkeeper%20Position%20Recommendation%20.ipynb)
 
->   **ABB IRB 7600-340 Robot visualization in VR and 3D mode**
+>   **ABB IRB 7600-340 Robot visualization in VR and 3D mode using JavaScript**
 
 
 >   **Logistic regression to recognize cats**

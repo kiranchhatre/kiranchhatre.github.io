@@ -24,7 +24,7 @@ classes: wide
 
 >   **[APS GmbH](http://aps-aachen.de/), Aachen, Germany** (April 2018 to Present)
 
-**Research Associate**
+**Research Associate**<br/>![autosol](/assets/images/autosol.jpg)
 
 -   Collision control using ROS, MoveIt! (FCL) and Gazebo.
 -   Assembly of Train Windows in a Train Wall using a Laser Based Sensor.
