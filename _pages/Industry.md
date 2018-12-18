@@ -87,7 +87,7 @@ The mounted spoiler jig on the boot door of Ford EcoSport:<br/>
 **Intern** *, Process Equipment Manufacturing*
 -   Reboiler Design: Calculation of heat transfer coefficient and tube pattern.
 
->   **[TATA Steel](http://www.tspdl.com/), Ranjangao, India** (May 2012 to July 2012)
+>   **[TATA Steel](http://www.tspdl.com/), Ranjangaon, India** (May 2012 to July 2012)
 
 **Intern**
 -   Hot-Rolled Steel workplace optimization and Godrej FG pallet standardization.
