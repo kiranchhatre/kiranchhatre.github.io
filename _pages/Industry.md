@@ -10,6 +10,8 @@ classes: wide
 
 **Developer** *, FAWKES Robot Software Framework*
 
+-   Patch OpenRave to build it on Fedora 29.
+-   Setting up a Kinematic Chain for the Autonomous Robots' gripper movement. Use OpenRAVE for motion planning when interacting with Conveyor.
 -   Component-based development environment for robotic applications. Development of the Behavior Engine, a layer for development, execution, and monitoring of robot behaviors.
 -   C++, LUA, CLIPS
 
