@@ -10,13 +10,14 @@ classes: wide
 
 **Developer** *, FAWKES Robot Software Framework*
 
--   Markerless Machine Recognition and Production [Ongoing]
+-   Markerless machine recognition and production using Artificial Neural Networks: Dataset and labels generation; feature extraction and customized classifier layer training on ImageNet using TensorFlow.
 -   C++, LUA
 
 >   **[Dassault Systemes](https://www.3ds.com), Aachen, Germany** (July 2018 to Present)
 
 **Intern - Developer** *, SIMULIA Center of Excellence*
 -   [Letter of Experience](https://drive.google.com/open?id=1D2Gl2NobQJLpF23weUPUzirSpjC2tf_a)
+-   Development of Robot Vision Software using OpenCV as a Plug-In to extend ARC Lab’s industrial learning platform.
 -   Develop an Abaqus plugin to calculate the desired plastic strain for isotropic
     hardening of a fuel pipe using USDFLD and UAMP subroutines.
 -   Develop an Abaqus Python script for preprocessing and calculating stress

@@ -9,7 +9,7 @@ mathjax: "true"
 
 >   **Mini Thesis** at Institute of General Mechanics at RWTH Aachen University, Germany.
 
--   Constitutive Viscoplastic Modeling using Aritificial Neural Networks.
+-   ”Combine an Artificial Neural Network with an UMAT subroutine to replace a Chaboche Viscoplastic Constitutive Law in Abaqus.” Sequence to sequence learning using LSTM and Neural Networks. Visaulization using TensorBoard.
 
 >   **TensorFlow implementation to decipher sign language**
 

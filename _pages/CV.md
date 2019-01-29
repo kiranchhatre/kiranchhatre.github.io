@@ -5,9 +5,9 @@ header:
     image: "/assets/images/about.jpeg"
 ---
 
-You can find my CV [here](https://drive.google.com/open?id=1Si7jQzXJgMBCYN5L81a8BqQRj6MlOion).
+You can find my CV [here](https://drive.google.com/open?id=1PhTIDtimaVMwpx1h2S7BC_m8OD-MMUD-).
 
-**Email:** kiranchhatre3[at]gmail[dot]com; kiran[dot]chhatre[at]rwth-aachen[dot]de
+**Email:** kiranchhatre3[at]gmail[dot]com; kiran[dot]chhatre[at]rwth[hyphen]aachen[dot]de
 
 **Phone:** +49 1590 1349350
 
