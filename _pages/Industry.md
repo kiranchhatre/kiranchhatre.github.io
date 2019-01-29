@@ -10,7 +10,7 @@ classes: wide
 
 **Developer** *, FAWKES Robot Software Framework*
 
--   Markerless machine recognition and production using Artificial Neural Networks: Dataset and labels generation; feature extraction and customized classifier layer training on ImageNet using TensorFlow.
+-   Markerless de machine recognition and production using Artificial Neural Networks: Dataset and labels generation; feature extraction and customized classifier layer training on ImageNet using TensorFlow.
 -   C++, LUA
 
 >   **[Dassault Systemes](https://www.3ds.com), Aachen, Germany** (July 2018 to Present)
