@@ -32,6 +32,7 @@ classes: wide
 -   Assembly of Train Windows in a Train Wall using a Laser Based Sensor.
 -   Sensing Strategy and Path Creation for Laser Sensor based Welding and
     Palletizing for the ABB IRB 7600 and KUKA LBR IV.
+-   Robots: ABB, KUKA, Motoman, IGUS.
 -   ***Video***: Train window assembly using ABB project<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Q2uncjoH79M
 " target="_blank"><img src="http://img.youtube.com/vi/Q2uncjoH79M/0.jpg"
