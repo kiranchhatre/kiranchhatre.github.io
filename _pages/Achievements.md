@@ -6,10 +6,6 @@ classes: wide
 ---
 
 
-## Scholarships
-
->   Grant of full tuition fees and living expenses scholarship for Masters education in Germany by Commissionerate of Social Welfare, Government of Maharashtra, India for 50 students with outstanding academic achievements.
-
 ## Research Papers
 
 >   [Automotive Security: Design and Development of Rear View Camera System](http://www.ijsrd.com/articles/IJSRDV4I80426.pdf) | Oct 2016
