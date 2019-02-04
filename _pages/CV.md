@@ -5,7 +5,7 @@ header:
     image: "/assets/images/about.jpeg"
 ---
 
-You can find my CV [here](https://drive.google.com/open?id=1PhTIDtimaVMwpx1h2S7BC_m8OD-MMUD-).
+You can find my CV [here](https://drive.google.com/open?id=1EV_B3eSez4reMRPMbJQP2BfxeZ2TONY6).
 
 **Email:** kiranchhatre3[at]gmail[dot]com; kiran[dot]chhatre[at]rwth[hyphen]aachen[dot]de
 
