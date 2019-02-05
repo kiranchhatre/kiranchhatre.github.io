@@ -17,9 +17,8 @@ classes: wide
 
 **Intern - Developer** *, SIMULIA Center of Excellence*
 -   [Letter of Experience](https://drive.google.com/open?id=1D2Gl2NobQJLpF23weUPUzirSpjC2tf_a)
--   Development of Robot Vision Software using OpenCV as a Plug-In to extend ARC Lab’s industrial learning platform.
--   Develop an Abaqus plugin to calculate the desired plastic strain for isotropic
-    hardening of a fuel pipe using USDFLD and UAMP subroutines.
+-   Develop an Abaqus python plugin to calculate the desired plastic strain for isotropic
+    hardening of a fuel pipe using UVARM and UAMP subroutines.
 -   Develop an Abaqus Python script for preprocessing and calculating stress
     developed for an interference fit between cam bearings and a shaft.
 -   Parallel execution with MPI using VUEXTERNALDB and VDISP subroutines.
@@ -28,6 +27,7 @@ classes: wide
 
 **Research Associate**<br/>![autosol](/assets/images/autosol.jpg)
 -   [Letter of Experience](https://drive.google.com/open?id=10RMguPjF3kvh1pozsVJxuMrN2AM0KeUG)
+-   Development of Robot Vision Software using OpenCV as a Plug-In to extend ARC Lab’s industrial learning platform.
 -   Collision control using ROS, MoveIt! (FCL) and Gazebo.
 -   Assembly of Train Windows in a Train Wall using a Laser Based Sensor.
 -   Sensing Strategy and Path Creation for Laser Sensor based Welding and
