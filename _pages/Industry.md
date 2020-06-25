@@ -6,7 +6,21 @@ classes: wide
 ---
 
 
->  **[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany** ( November 2018 to Present)
+>  **Lawrence Berkeley National Laboratory, California, USA** (November 2019 to Present)
+
+**Research Affiliate, Sustainable Energy Systems Group**
+
+-   Multifidelity Bayesian optimization of a large-scale multi-agent transportation framework. 
+
+>  **Kindi Center for Computing Research, Doha, Qatar University** (October 2019) 
+
+**IAESTE, Cybersecurity Intern**
+
+>  **IBM Research, Stuttgart, Germany** (April 2019 to September 2019)
+
+**Machine Learning Intern** 
+
+>  **[CAROLOGISTICS](https://www.carologistics.org/), Aachen, Germany** ( November 2018 to March 2019)
 
 **Developer** *, FAWKES Robot Software Framework*
 
