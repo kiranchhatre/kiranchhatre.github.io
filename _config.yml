@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Kiran Chhatre"
 title_separator          : "-"
 name                     : "Kiran Chhatre"
-description              : "Data Science Portfolio"
+description              : "Machine Learning Research"
 url                      : "https://kiranchhatre.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kiranchhatre/kiranchhatre.github.io
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "KiranChhatre"
+  username               : "ChhatreKiran"
 facebook:
   username               : "kiran.chhatre"
   app_id                 :
@@ -104,19 +104,19 @@ analytics:
 author:
   name             : "Kiran Chhatre"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi there. I am an aspiring Data Scientist exercising passionately in the field of Deep Learning, Exploratory Analysis, and Data Visualizations."
-  location         : "Aachen, Germany"
+  bio              : "Hi there. I am a Machine Learning Researcher exercising passionately in the field of Deep Learning, Exploratory Analysis, and Data Visualizations."
+  location         : "California, USA"
   github           : "kiranchhatre"
   linkedin         : "kiranchhatre/"
   YouTube          : "https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw/"
-  Twitter          : "https://twitter.com/KiranChhatre"
+  Twitter          : "https://twitter.com/ChhatreKiran"
 # Site Footer
 footer:
 
   linkedin          : "https://www.linkedin.com/in/kiranchhatre/"
   github            : "https://github.com/kiranchhatre"
   YouTube           : "https://www.youtube.com/channel/UCl-eVYv0TSICZPVeohpgoLw"
-  Twitter           : "https://twitter.com/KiranChhatre"
+  Twitter           : "https://twitter.com/ChhatreKiran"
 
 # Reading Files
 include:
