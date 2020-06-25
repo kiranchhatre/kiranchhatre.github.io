@@ -1,4 +1,4 @@
-I am a Master’s student in Computational Mechanics at RWTH Aachen University. I am currently employed as an Intern - Developer at Simulia Dassault Systemes, a Research Assistant at APS GmbH (European Center for Mechatronics) and Developer - Robot Software Framework at Carologistics - Robocup Logistics League team. I am also currently doing my Mini-thesis at Institute for General Mechanics, RWTH Aachen on 'Constitutive Viscoplastic Modeling using Artificial Neural Networks'.
+I am a Master’s student in Computer Aided Conception in Mechanical Engineering at RWTH Aachen University. I am currently employed as a Research Affiliate at Lawrence Berkeley National Laboratory (LBNL), California, USA. Being a part of Sustainable Energy Systems Group at LBNL, my main focus is multifidelity Bayesian optimization of a large-scale multi-agent transportation simulation.
 
 Please feel free to navigate through the site to find out more about me.
 
