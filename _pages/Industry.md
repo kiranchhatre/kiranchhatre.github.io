@@ -30,7 +30,6 @@ classes: wide
 >   **[Dassault Systemes](https://www.3ds.com), Aachen, Germany** (July 2018 to Present)
 
 **Intern - Developer** *, SIMULIA Center of Excellence*
--   [Letter of Experience](https://drive.google.com/open?id=1D2Gl2NobQJLpF23weUPUzirSpjC2tf_a)
 -   Develop an Abaqus python plugin to calculate the desired plastic strain for isotropic
     hardening of a fuel pipe using UVARM and UAMP subroutines.
 -   Develop an Abaqus Python script for preprocessing and calculating stress
@@ -40,7 +39,6 @@ classes: wide
 >   **[APS GmbH](http://aps-aachen.de/), Aachen, Germany** (April 2018 to Present)
 
 **Research Associate**<br/>![autosol](/assets/images/autosol.jpg)
--   [Letter of Experience](https://drive.google.com/open?id=10RMguPjF3kvh1pozsVJxuMrN2AM0KeUG)
 -   Development of Robot Vision Software using OpenCV as a Plug-In to extend ARC Lab’s industrial learning platform.
 -   Collision control using ROS, MoveIt! (FCL) and Gazebo.
 -   Assembly of Train Windows in a Train Wall using a Laser Based Sensor.
@@ -67,7 +65,6 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 >   **[Dassault Systemes](https://www.3ds.com), Pune, India** (December 2015 to August 2017)
 
 **Simulations Developer (CAE, Robotics)** *, Industry Solutions Group*
--   [Letter of Experience](https://drive.google.com/open?id=1SPSXu8Ru3KtKOxMrg_wQokTn9nOPEJWI)
 -   Developing Industrial Solutions in ABAQUS, Dymola, and CATIA on:
     -   Analysis Portfolio: Nonlinear Structural Analysis
     -   Geometric Modeling: ICEM Surf, Subdivision and Freestyle Surfacing
@@ -85,7 +82,6 @@ alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
 >   **[Autocop](https://www.autocoptrackpro.com/), Bengaluru, India** (July 2014 to November 2015)
 
 **Mechanical Design Engineer** *, OEM Division*
--   [Letter of Experience](https://drive.google.com/open?id=1cWx5JyjEfRrlHDB_symMg0qE7p0YgF0C)
 -   Development of TATA Nano Remote Controlled Boot Release accessory.<br/>
 ![tntgo](/assets/images/tntgo.png)<br/>
 Prototype made of Delrin material:<br/>
@@ -105,13 +101,11 @@ The mounted spoiler jig on the boot door of Ford EcoSport:<br/>
 >   **[Alfa LAVAL](https://www.alfalaval.com/), Dapodi, India** (June 2013 to July 2013)
 
 **Intern** *, Process Equipment Manufacturing*
--   [Letter of Experience](https://drive.google.com/open?id=1qm3yQBPPr_PIEp54FuRiebzydz1ZSDKj)
 -   Reboiler Design: Calculation of heat transfer coefficient and tube pattern.
 
 >   **[TATA Steel](http://www.tspdl.com/), Ranjangaon, India** (May 2012 to July 2012)
 
 **Intern**
--   [Letter of Experience](https://drive.google.com/open?id=1BnhtsokxRn98yv2hX1f-TXpMvjg1XTQd)
 -   Hot-Rolled Steel workplace optimization and Godrej FG pallet standardization.
 
 
