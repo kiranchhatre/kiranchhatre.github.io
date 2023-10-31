@@ -7,6 +7,8 @@ classes: wide
 mathjax: "true"
 ---
 
+> Old portfolio: [Link](https://drive.google.com/file/d/1huvrt_cft7wDZssJ8ZKH2KEnA_FcHRAp/view?usp=sharing)
+
 >   **Mini Thesis** at Institute of General Mechanics at RWTH Aachen University, Germany.
 
 -   ”Combine an Artificial Neural Network with an UMAT subroutine to replace a Chaboche Viscoplastic Constitutive Law in Abaqus.” Sequence to sequence learning using LSTM and Neural Networks. Visaulization using TensorBoard.
