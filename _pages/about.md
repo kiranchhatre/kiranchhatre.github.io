@@ -8,4 +8,6 @@ I am a Master’s student in Computer Aided Conception in Mechanical Engineering
 
 Please feel free to navigate through the site to find out more about me.
 
+Old portfolio: [Link](https://drive.google.com/file/d/1huvrt_cft7wDZssJ8ZKH2KEnA_FcHRAp/view?usp=sharing)
+
 Last updated on: 25 June 2020
